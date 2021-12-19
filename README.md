@@ -49,7 +49,7 @@ I Guess This Will Be Usefull For Many People.....😇.
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
+**Thanks to [CYBER UDAYIPP](https://t.me/cyberudayipp1) and his [SH MODS](https://t.me/cyberudayippshmods) for this Video**
 
 #### Deploy in your VPS
 ````bash
@@ -107,7 +107,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/cyberudayipp) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
